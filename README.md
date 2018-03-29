@@ -5,7 +5,7 @@ Group Members - Brandon Angod(100590598)
 
 Download the files from GitHub then afterwards open with intellij and load the project.
 
-GitHUB: https://github.com/sunujoseph/CSCI2020U_Assignment2.git
+GitHUB: https://github.com/sunujoseph/Assignment2CSCI2020.git
 
 Lastly run Main.java
 Some Quick Reminder:
